@@ -1,0 +1,24 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "ejercicio tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naovillaj/gentle-tdd.git"
+  },
+  "keywords": [
+    "test",
+    "tdd",
+    "ejemplo"
+  ],
+  "author": "naovillaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naovillaj/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/naovillaj/gentle-tdd#readme"
+}
